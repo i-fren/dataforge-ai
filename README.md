@@ -32,7 +32,7 @@
 - **NumPy**
 - **Scikit-learn (for basic ML insights)**
 - ## 🌐 Live Demo
-https://your-app-link.streamlit.app
+[https://your-app-link.streamlit.app](https://dataforge-ai-ha6jvtorfenhaickyzuzp2.streamlit.app/)
 
 ---
 
