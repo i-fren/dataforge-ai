@@ -31,6 +31,8 @@
 - **Pandas**
 - **NumPy**
 - **Scikit-learn (for basic ML insights)**
+- ## 🌐 Live Demo
+https://your-app-link.streamlit.app
 
 ---
 
