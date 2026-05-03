@@ -1,18 +1,41 @@
-# AI Data Analysis Agent
+# 🚀 DataForge
 
-Data cleaning + AI insights + ML analysis tool.
+**DataForge** is an AI-powered data cleaning and analysis tool that transforms raw CSV files into clean, structured, and insightful datasets.
 
-## Setup
-1. Install: `pip install -r requirements.txt`
-2. Run: `streamlit run app.py`
-3. Upload CSV file
+---
 
-## Features
-- Auto-detect missing values & outliers
-- Smart duplicate removal (exact, fuzzy, partial)
-- Interactive visualizations
-- ML model training
-- Anomaly detection
+## ✨ Features
 
-## Requirements
-Python 3.8+
+- 🔹 Remove duplicate rows automatically  
+- 🔹 Detect and handle missing values  
+- 🔹 Generate smart data insights  
+- 🔹 Clean and simple user interface  
+- 🔹 Download cleaned CSV instantly  
+
+---
+
+## 🧠 How It Works
+
+1. Upload your CSV file  
+2. The system processes and cleans the data  
+3. Duplicate records are removed  
+4. Missing values and patterns are analyzed  
+5. Download your cleaned dataset  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Streamlit**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn (for basic ML insights)**
+
+---
+
+## ▶️ Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
